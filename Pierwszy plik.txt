@@ -1,3 +1,3 @@
 To jest pierwsza linijka w pierwszym pliku tekstowym
-To jest druga linijka, przed zmian¹
+To jest druga linijka, po zmianie
 To jest trzecia linijka, przed zmian¹
