@@ -1,1 +1,2 @@
 To jest pierwsza linijka w pierwszym pliku tekstowym
+To jest druga linijka w innym branchu
