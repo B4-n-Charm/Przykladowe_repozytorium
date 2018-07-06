@@ -1,3 +1,7 @@
 To jest pierwsza linijka w pierwszym pliku tekstowym
+<<<<<<< HEAD
 To jest druga linijka, po drugiej zmianie
 To jest trzecia linijka, przed zmianš
+=======
+To jest druga linijka w innym branchu
+>>>>>>> d6ec421a9f5551c49162984a3380c7e3afbf8ca6
