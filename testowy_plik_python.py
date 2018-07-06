@@ -6,7 +6,13 @@ def funkcja_pierwsza():
 
 def funkcja_druga():
     b = 4 * 4
-    return b
+    c = 5 * 5
+    return b, c
+
+def funkcja_trzecia():
+    print("Trzecia funkcja")
+
+
 
 
 def funkcja_piata():

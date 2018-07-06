@@ -1,4 +1,0 @@
-To jest pierwsza linijka w pierwszym pliku tekstowym
-To jest druga linijka, po drugiej zmianie
-To jest trzecia linijka, po zmianach
-Linijka z brancha staszko
