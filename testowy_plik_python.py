@@ -17,3 +17,5 @@ def funkcja_trzecia():
 
 def funkcja_piata():
     return "spam"
+
+# koment koment koment
