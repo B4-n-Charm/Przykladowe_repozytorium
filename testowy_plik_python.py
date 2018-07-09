@@ -13,7 +13,7 @@ def funkcja_trzecia():
     print("Trzecia funkcja")
 
 
-
+# koment 2
 
 def funkcja_piata():
     return "spam"
