@@ -20,3 +20,4 @@ def funkcja_piata():
 
 # koment koment koment
 # koment 2
+# koment 3
