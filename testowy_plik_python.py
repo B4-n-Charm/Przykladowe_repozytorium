@@ -19,3 +19,4 @@ def funkcja_piata():
     return "spam"
 
 # koment koment koment
+# koment 2
