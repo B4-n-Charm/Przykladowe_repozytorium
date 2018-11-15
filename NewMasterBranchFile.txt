@@ -1,3 +1,2 @@
 MasterBranch - line1
 MasterBranch - line2
-MasterBranch - line3
