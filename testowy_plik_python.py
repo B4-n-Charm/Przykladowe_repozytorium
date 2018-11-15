@@ -1,6 +1,7 @@
 def funkcja_pierwsza():
     a = 2 * 2
-    return a
+    a2 = 3 * 3
+    return a * a2
 
 
 def funkcja_druga():
@@ -12,3 +13,12 @@ def funkcja_trzecia():
     print("Trzecia funkcja")
 
 
+# koment 10
+
+def funkcja_piata():
+    return "spam"
+
+# koment koment koment
+# koment 2
+# koment 3
+# koment 1254
