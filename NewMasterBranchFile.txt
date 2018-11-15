@@ -1,0 +1,5 @@
+MasterBranch - line1
+SecondBranch - line2
+MasterBranch - line2
+SecondBranch - line4
+MasterBranch - line5
