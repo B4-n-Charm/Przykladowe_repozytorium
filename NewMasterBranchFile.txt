@@ -1,3 +1,7 @@
 MasterBranch - line1
+ThirdBranch - line2
+ThirdBranch - line3
+ThirdBranch - line4
 MasterBranch - line2
-MasterBranch - line3
+MasterBranch - line6
+ThirdBranch - line7
